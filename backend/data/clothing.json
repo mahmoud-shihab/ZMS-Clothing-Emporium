@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "Womens Dress Shoes",
+        "category": "shoes",
+        "color": "olive",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/HBJUKY1PBQ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/XIR24PVMG6",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Running Shoes",
+        "category": "shoes",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/0DJM2RGTWS._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/ZM5NXJPYK4",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Ballet Flats",
+        "category": "shoes",
+        "color": "white",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/ZE2NFI3UP3._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/U746WWKNRA",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Sandals",
+        "category": "shoes",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/0GC6CAEQSD._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/WQWAACKLTK",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Handbag",
+        "category": "accessories",
+        "color": "cream",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/XXAZ2OORLW._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/6NQJFGW7J6",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Blouse",
+        "category": "top",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/EO72A6N86K._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/UTMK9NBOUN",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Coat",
+        "category": "top",
+        "color": "blue",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/SDJ1N6T5JN._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/GQVC8PGE3N",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Classic Shirt",
+        "category": "top",
+        "color": "gray",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/GSJKFMMRIW._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/W69BNZOOOG",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "green",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/AL8F129PK1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/1SRAGELUX0",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Sneakers",
+        "category": "shoes",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/NRCVTT6E8N._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9M9P3YQ5NH",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Chinos",
+        "category": "bottom",
+        "color": "yellow",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/0ZHV4MKRB1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/HWPUPGHXAA",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Coat",
+        "category": "top",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/O48A3X9BON._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/BMDEZI17ZR",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Sandals",
+        "category": "shoes",
+        "color": "khaki",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/4PKN5OJKRU._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/7N9DF3QVFY",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Sneakers",
+        "category": "shoes",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/BNULXP4JZ0._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/AEZFRB14J9",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Classic Shirt",
+        "category": "top",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/WMSUXO26O8._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/B1BIL3T3OY",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Jeans",
+        "category": "bottom",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/6Y6QW7VQ78._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/YXE18UZOKC",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Scarf",
+        "category": "accessories",
+        "color": "cream",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/03XHXM549E._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/W93QP2BF0Z",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Trousers",
+        "category": "bottom",
+        "color": "khaki",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/HYQJ4XQVKR._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/QWIG5TB0NT",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Gloves",
+        "category": "accessories",
+        "color": "beige",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/F4V1M2SLK2._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/2C89Q8YTUN",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Shorts",
+        "category": "bottom",
+        "color": "white",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/RZNUU0RR1L._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9SSEOPSM5F",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Skirt",
+        "category": "bottom",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/16W1PVNHFQ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/J0BVXBDPZ6",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Cardigan",
+        "category": "top",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/5JWZDWDXIH._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/G9VSUF1ABK",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Cargo Pants",
+        "category": "bottom",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/03CMIR2JG9._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/P0TESKVIAK",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Loafers",
+        "category": "shoes",
+        "color": "gray",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/QEXG3IIRJU._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/PWDOTP085M",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Classic Shirt",
+        "category": "top",
+        "color": "khaki",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/AOIFWP5MTC._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/X76Z2NCPEL",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Chinos",
+        "category": "bottom",
+        "color": "multicolor",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/3S3OZSKNPN._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/N2C0DXUQWZ",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Trousers",
+        "category": "bottom",
+        "color": "gray",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/G1ZA39D79T._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/67TXQ84FY0",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Coat",
+        "category": "top",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/4SAAGBPCBA._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/GJ2FK0VB1P",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Cargo Pants",
+        "category": "bottom",
+        "color": "black",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/VPD78SRFEN._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/1MWTTMWJJX",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/ZKF5Y7VS5I._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/ZUPZ1UYHXV",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Chinos",
+        "category": "bottom",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/SP75X4WKJC._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/VE0SEZRBOK",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Coat",
+        "category": "top",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/R407K3AZAX._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/ZCK4LVLVVE",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sneakers",
+        "category": "shoes",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/CSDATCD6CJ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9FF0I9S0NL",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Jeans",
+        "category": "bottom",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/GKPEVKLDGD._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/P94Z1AAMR6",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Leggings",
+        "category": "bottom",
+        "color": "multicolor",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/FW3Y7AZDK8._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/C3TPQCZST2",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Ballet Flats",
+        "category": "shoes",
+        "color": "cream",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/9VWSJEH2L2._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/UVP1J9CA4O",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "multicolor",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/8PL1XXDAR8._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/O8DVG5TUKC",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Handbag",
+        "category": "accessories",
+        "color": "cream",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/ZHXXGUINSY._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/7J0FHWJ01I",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Ballet Flats",
+        "category": "shoes",
+        "color": "multicolor",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/5GZ3WVX96B._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/VWPV1DQJBR",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Handbag",
+        "category": "accessories",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/Q5RV8450ND._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/8OGVRABSNT",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Chinos",
+        "category": "bottom",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/FGYSJ0L1G5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/WCXPQ9JLGL",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/ABII30RN2Z._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/VI5N1TIT2M",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Boots",
+        "category": "shoes",
+        "color": "beige",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/WNB94YCMB2._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/HZMXMGHHXC",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Coat",
+        "category": "top",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/E5TRLLFS4Y._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/72BI5THUNI",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Ballet Flats",
+        "category": "shoes",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/6MSNKGOF36._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/K3R3O3XHYC",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Boots",
+        "category": "shoes",
+        "color": "yellow",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/0OZLM364SV._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/U07R61MT5Y",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/SFJAZEZK1Y._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/FXSN9V8DSY",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Leggings",
+        "category": "bottom",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/T3S0WLDCAK._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/CCXD15HQHV",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Cardigan",
+        "category": "top",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/QRLHSFG5BI._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/4X2A2NTJGC",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Classic Shirt",
+        "category": "top",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/B2LO0QJ192._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/CTL3174GHN",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Leggings",
+        "category": "bottom",
+        "color": "multicolor",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/AHOXEGPQML._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/KSVCM1RANY",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Hoodie",
+        "category": "top",
+        "color": "white",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/72AREXT5X7._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/01SWGSSEJL",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sunglasses",
+        "category": "accessories",
+        "color": "white",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/7ZHVAEFYSU._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/B9JMMOPQPH",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Coat",
+        "category": "top",
+        "color": "white",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/U0XKNHIMSZ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/S8AJGELAMU",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Dress Shoes",
+        "category": "shoes",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/K7ROM2CQSN._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/59LJC5VEU5",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Sunglasses",
+        "category": "accessories",
+        "color": "olive",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/10EFWS7WUI._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/W6ZB47WROV",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sandals",
+        "category": "shoes",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/E6GGUN00V1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/8RFTJUJRPS",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Running Shoes",
+        "category": "shoes",
+        "color": "black",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/7V812XXAGP._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/FD9K0OZG2Y",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Handbag",
+        "category": "accessories",
+        "color": "cream",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/Z7F16244BW._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/H4LPV8H2S9",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Coat",
+        "category": "top",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/IJZM0XPYQL._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/D3M17CTQQ8",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Jeans",
+        "category": "bottom",
+        "color": "white",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/ASYJK4MQUB._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/ZSQ4KW9YED",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Jacket",
+        "category": "top",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/55HM1USJ1J._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9OIBSJ5DZQ",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Coat",
+        "category": "top",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/6TJY9VAXW3._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/6PWUFKEN2Q",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Cargo Pants",
+        "category": "bottom",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/MAEGWF5RBZ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/WBBFN8SAKV",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Boots",
+        "category": "shoes",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/AHQSUYJ1NA._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/MV91AZMNFO",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Scarf",
+        "category": "accessories",
+        "color": "white",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/MRTZV9F278._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/PEMYMFX3WL",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sandals",
+        "category": "shoes",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/7PJTPHA58Y._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/NREDLCVZKY",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "multicolor",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/966QVE5JZI._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/1BQNK7TJO1",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Cargo Pants",
+        "category": "bottom",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/PVWGRPNETW._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/5O35Q0R8QJ",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Leggings",
+        "category": "bottom",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/JQ575ODX5Y._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/H78H80S7EX",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Jeans",
+        "category": "bottom",
+        "color": "olive",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/NX3133NSN5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/VLC26H2OHU",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Skirt",
+        "category": "bottom",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/TYOUZLUW4B._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/3HBR6V7EZV",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Handbag",
+        "category": "accessories",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/B02BDD769E._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/QYJJXMGFOU",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Scarf",
+        "category": "accessories",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/CSWYVTKVKB._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/6MJD0KAGKN",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Dress Shoes",
+        "category": "shoes",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/YYV6GD2NX2._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/NX7F2BVNDD",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Jacket",
+        "category": "top",
+        "color": "olive",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/ORPU6V2RUA._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/H1JT80RVHK",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/ODPWA1EKT7._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/ERHJ11WPTP",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Sandals",
+        "category": "shoes",
+        "color": "olive",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/0XJVOE69U6._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/WJ40YSFSFX",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Trousers",
+        "category": "bottom",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/8RD9DB2MFJ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/YE91M9F81E",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Gloves",
+        "category": "accessories",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/UX8T4NG7LV._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/SNJ50SYXMM",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Dress Shoes",
+        "category": "shoes",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/I2JCEETCM0._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/DS5FP9JKWE",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Dress Shoes",
+        "category": "shoes",
+        "color": "khaki",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/Q9KQVV0Q4V._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/2TDGNIBL1G",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Blouse",
+        "category": "top",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/UY6XTZBX03._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/E96T8U4ENX",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Handbag",
+        "category": "accessories",
+        "color": "white",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/B47BT4XOKV._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/DWN5WNXWDY",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Cargo Pants",
+        "category": "bottom",
+        "color": "olive",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/ZK2NHJUXBY._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/D7ROBDHUE0",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Scarf",
+        "category": "accessories",
+        "color": "white",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/ZHNM7TYYBL._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/GB261YCGT9",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Chinos",
+        "category": "bottom",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/82QM7JK5IT._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/MEVHUPRRG6",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Cargo Pants",
+        "category": "bottom",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/8KZL4X5HXW._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/YHG5FIQL7I",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Coat",
+        "category": "top",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/HUSKJ5EXOO._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/P1L51YCWTH",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Shorts",
+        "category": "bottom",
+        "color": "gray",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/L97YRIHDBI._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/72BJTE138K",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Leggings",
+        "category": "bottom",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/N1SSTTVWJM._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/XJNY38PCAB",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Running Shoes",
+        "category": "shoes",
+        "color": "beige",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/ZMNR5HUG3Z._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/W4NDCV07TM",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Chinos",
+        "category": "bottom",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/FLCGU389CF._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/7JGRH35AT6",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens T-shirt",
+        "category": "top",
+        "color": "yellow",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/3PVWXQ7QVP._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/AMHCBLWBX6",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Trousers",
+        "category": "bottom",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/HAJ8ZQQD6S._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/U4L3C1C84W",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Hoodie",
+        "category": "top",
+        "color": "olive",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/VNJXQA7YM2._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/TM3E0YA1K1",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Belt",
+        "category": "accessories",
+        "color": "gray",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/93O2QON0QI._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/DROBVPINHY",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Classic Shirt",
+        "category": "top",
+        "color": "gray",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/IFTK0POBW5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/68FD96IY2W",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Jacket",
+        "category": "top",
+        "color": "gray",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/NV1C4R7YIV._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/0KWIXZFBYC",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Trousers",
+        "category": "bottom",
+        "color": "red",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/HW1FGIMAJZ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/VT0H9YVM1R",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Cargo Pants",
+        "category": "bottom",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/K0PRJ3F5WQ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/62N3LM9S2W",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Cardigan",
+        "category": "top",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/A60ETJQQO9._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/MXZFKYS5E7",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Cardigan",
+        "category": "top",
+        "color": "cream",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/13143HF5L4._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/I68BZ9YZ2X",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Dress Shoes",
+        "category": "shoes",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/6FBHTE6L87._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/3GOCANMSAI",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Skirt",
+        "category": "bottom",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/2U3WJX20CE._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/EC8A2DLIQX",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Cargo Pants",
+        "category": "bottom",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/AUWVPKF45G._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/XZC1G9Y01F",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Cargo Pants",
+        "category": "bottom",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/KJF2QAFIOP._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/UIKURZVUCO",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Hoodie",
+        "category": "top",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/8S11UFZZIG._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/79TN0Q5IZ6",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Sneakers",
+        "category": "shoes",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/RWNNB6I11R._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/KMGKRG8JDR",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sneakers",
+        "category": "shoes",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/FUKI9MIBCN._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/HC4JJN7VEI",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Handbag",
+        "category": "accessories",
+        "color": "green",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/1Q9S0329XB._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/4NN31C4OZC",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Chinos",
+        "category": "bottom",
+        "color": "cream",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/QOVMGBTVTG._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/SBG0UKAFTN",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Scarf",
+        "category": "accessories",
+        "color": "cream",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/6OTXXE163W._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/I1IS5Y4Q9C",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Trousers",
+        "category": "bottom",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/ARAGMBVLI5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/QOQT4MW98N",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Leggings",
+        "category": "bottom",
+        "color": "blue",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/3QYHL5E3D1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/017E5QY345",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Ballet Flats",
+        "category": "shoes",
+        "color": "khaki",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/O9L3GXIGA1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/O61BOXWXZ0",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Gloves",
+        "category": "accessories",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/P73OYL40F2._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/KR50Z3NIPL",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Ballet Flats",
+        "category": "shoes",
+        "color": "multicolor",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/3H3TTLJKQ1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/BIKTDGVXE7",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Cardigan",
+        "category": "top",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/BDG0XFLPB2._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/QU652141TH",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Leggings",
+        "category": "bottom",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/FBSDXULCBU._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/TVG92WUYLG",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Dress Shoes",
+        "category": "shoes",
+        "color": "white",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/GUFYS0M43J._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/E2G71K1ZFM",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Sunglasses",
+        "category": "accessories",
+        "color": "blue",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/SVWUE9WV1F._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/PI4VJPWX2X",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Watch",
+        "category": "accessories",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/82PDNTB1ZF._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/4PE9KP8RIX",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Sunglasses",
+        "category": "accessories",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/X9FDFCKWO6._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9XDV666322",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Classic Shirt",
+        "category": "top",
+        "color": "olive",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/85TBM2LASN._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/RX4KONCBC5",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens T-shirt",
+        "category": "top",
+        "color": "green",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/X5AMCZ96HY._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/T20S6LM9I7",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Coat",
+        "category": "top",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/OS9OZ9N0QG._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/AA5H90SCXD",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Chinos",
+        "category": "bottom",
+        "color": "brown",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/CX5EJ7YBT3._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/LIW7ZS0KWT",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Gloves",
+        "category": "accessories",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/KANJDL023J._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/7HFB2CQ76T",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Cardigan",
+        "category": "top",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/ITAT6CLOB5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/5VA4MHHB2Q",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Blouse",
+        "category": "top",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/G22RN3NOTY._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/RB05TBSC13",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Gloves",
+        "category": "accessories",
+        "color": "yellow",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/7ZPV3X244S._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/BL457Z0JFG",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/O0UP666WVU._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/KLAOOW8ECD",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Chinos",
+        "category": "bottom",
+        "color": "yellow",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/L0H3VQKHP6._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/5Q1XK5HJ4V",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Sandals",
+        "category": "shoes",
+        "color": "gray",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/6CPZGBJQN0._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/JS9I93HN1F",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Skirt",
+        "category": "bottom",
+        "color": "olive",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/SRPOIN7S68._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/EZ0GXMEVDW",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Jacket",
+        "category": "top",
+        "color": "blue",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/T8PJ1UMXEP._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/U37HJR5HYK",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Skirt",
+        "category": "bottom",
+        "color": "beige",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/JYP2AOO7RA._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9377VERNZ3",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Cardigan",
+        "category": "top",
+        "color": "white",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/TNIYITPLXB._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/YWUKWG0JMN",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Scarf",
+        "category": "accessories",
+        "color": "beige",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/QYOVFM7OH1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/KQ0POS2O18",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Cargo Pants",
+        "category": "bottom",
+        "color": "olive",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/DWJIMZM7VG._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/90FFRZ0UV9",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Boots",
+        "category": "shoes",
+        "color": "white",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/S80HNXBN6V._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/X7KD7OLZVE",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Dress Shoes",
+        "category": "shoes",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/ZIRMFRS07L._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/JIAQZZ5A9E",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Watch",
+        "category": "accessories",
+        "color": "gray",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/DAH9KY6348._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/34T9TVMUSE",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Cargo Pants",
+        "category": "bottom",
+        "color": "brown",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/5M6HAND0C9._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/2RQ97DMM8X",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "green",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/RISI2UYJW6._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/DAUBCWYQQJ",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "multicolor",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/FOB3X8N8KV._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/0LABB4HSAI",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Jeans",
+        "category": "bottom",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/INZLDEE6WM._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/P5AP8JRMWJ",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Shorts",
+        "category": "bottom",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/5CWXFO5OS5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/1X06X0S3PV",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Chinos",
+        "category": "bottom",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/0OHJG1N5Z9._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/HNTCYDBM8L",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Cardigan",
+        "category": "top",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/42GOEQA35V._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/JXXUZ04232",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Hoodie",
+        "category": "top",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/XYO7YOLP5U._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/M662B83LQR",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Sneakers",
+        "category": "shoes",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/2Z3A29MCG1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/E20DTVI8PD",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Hat",
+        "category": "accessories",
+        "color": "yellow",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/8JOIUWP1OP._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/RAQVZXFO8J",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Ballet Flats",
+        "category": "shoes",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/D798DE8ZC5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/NOWGH1AK6M",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Skirt",
+        "category": "bottom",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/0P9TEINP47._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/3IJYM851IK",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Leggings",
+        "category": "bottom",
+        "color": "white",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/REBTHGYE89._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/8BCLCKVZRX",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/GP20X4CVDT._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/RR0X2598RL",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/0KU8MX2A27._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/DBU4YLO5MC",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Scarf",
+        "category": "accessories",
+        "color": "blue",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/YEH3MCWXN8._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/Z5CUT15TDK",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Gloves",
+        "category": "accessories",
+        "color": "multicolor",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/OQ1FJZD0VT._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/ML0B04WKGU",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Jacket",
+        "category": "top",
+        "color": "blue",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/NP6ZI5A6JZ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/3U16NGLON9",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Handbag",
+        "category": "accessories",
+        "color": "beige",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/DNG16535N6._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/B94PRTLWE1",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Shorts",
+        "category": "bottom",
+        "color": "cream",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/78WLHG12BH._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/26T4I2TB98",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens T-shirt",
+        "category": "top",
+        "color": "khaki",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/XK1V0XH7DX._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/5LUMQXJ5YS",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "brown",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/JKV6BPAIQZ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/LF7EE8DTAV",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Hat",
+        "category": "accessories",
+        "color": "brown",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/DHIDPBWFDJ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/UUTSPR6AVS",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Dress Shoes",
+        "category": "shoes",
+        "color": "brown",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/GB0JOF6NBM._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/27PAE8B0QY",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Handbag",
+        "category": "accessories",
+        "color": "yellow",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/C7U4LSMW2O._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/8EOZKX7QUQ",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Gloves",
+        "category": "accessories",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/SCW8WYQLA6._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/M9EDC1RIQG",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens T-shirt",
+        "category": "top",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/LWQ7K9OAYV._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/RPYGXIC9LR",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Jacket",
+        "category": "top",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/PA58NQTEPP._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/IB584I73XO",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Cardigan",
+        "category": "top",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/SSID7UC7PD._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/FY5TCGHIMQ",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Jacket",
+        "category": "top",
+        "color": "khaki",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/HR7NPYM2K5._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/KRRENMR6OJ",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Cargo Pants",
+        "category": "bottom",
+        "color": "blue",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/KFOPO4YNCL._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/FUUIE3UXQH",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Dress Shoes",
+        "category": "shoes",
+        "color": "multicolor",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/ECI9Z1G7RS._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/YC5XTATP54",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sunglasses",
+        "category": "accessories",
+        "color": "olive",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/I0CHQTXKGP._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/V61W1TX39D",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Dress Shoes",
+        "category": "shoes",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/6HJAYRZAXV._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/Z0RIQ0LI4D",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sneakers",
+        "category": "shoes",
+        "color": "red",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/Z446X8AJYM._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/28IMSRWOE7",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "green",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/BYSBOTAN6X._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/7HA40A015J",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Sandals",
+        "category": "shoes",
+        "color": "navy",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/E7YYT7I2X7._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/4XW1CFT4GL",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Handbag",
+        "category": "accessories",
+        "color": "beige",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/6IVK01DBQ1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/0D9WNDM2PZ",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Ballet Flats",
+        "category": "shoes",
+        "color": "gray",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/GEUJ33Y3AY._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/2A9BOC4F32",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Sandals",
+        "category": "shoes",
+        "color": "gray",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/MOAKWS8ZIO._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/C9YO6YO69W",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Scarf",
+        "category": "accessories",
+        "color": "white",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/A3S75LXH5J._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/KR9RZI7EK8",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Ballet Flats",
+        "category": "shoes",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/UNE0KX3PXT._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/XH53SJHYWQ",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Handbag",
+        "category": "accessories",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/T0WRGVJS6A._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/7FDNI7O82C",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Cargo Pants",
+        "category": "bottom",
+        "color": "multicolor",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/X1EW4NXMYL._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/TGIHX36YFT",
+        "gender": "Male"
+    },
+    {
+        "name": "Mens Classic Shirt",
+        "category": "top",
+        "color": "multicolor",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/POGW3HY1P0._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/TJDDX3SN9L",
+        "gender": "Female"
+    },
+    {
+        "name": "Mens Running Shoes",
+        "category": "shoes",
+        "color": "black",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/3LPZIDX3OJ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/1ZAMIIR1IU",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/V7IN2ZX26N._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/L5UJ7YZ8TI",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Sneakers",
+        "category": "shoes",
+        "color": "blue",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/W3AWPM8SVM._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9WT7PH4POL",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Sneakers",
+        "category": "shoes",
+        "color": "yellow",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/G2BN041Z7P._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/9TLYN5AAHG",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Gloves",
+        "category": "accessories",
+        "color": "navy",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/Y76HXDBCUC._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/NE2VLBQKBX",
+        "gender": "Male"
+    },
+    {
+        "name": "Womens Sweater",
+        "category": "top",
+        "color": "beige",
+        "season": "spring-summer",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/KFC0GX854Z._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/CVWN7ALLNA",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Ballet Flats",
+        "category": "shoes",
+        "color": "red",
+        "season": "spring-summer",
+        "style": "formal",
+        "image": "https://m.media-amazon.com/images/I/SAMM2MALCQ._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/ZTVZ95TIJP",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Loafers",
+        "category": "shoes",
+        "color": "cream",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/AJB7LNG3S1._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/DWA1CGJEY8",
+        "gender": "Female"
+    },
+    {
+        "name": "Womens Belt",
+        "category": "accessories",
+        "color": "pink",
+        "season": "winter-fall",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/HLPXEAKKWS._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/J5WDOU5TBY",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Mens Cardigan",
+        "category": "top",
+        "color": "pink",
+        "season": "spring-summer",
+        "style": "casual",
+        "image": "https://m.media-amazon.com/images/I/Y9FC9QFCG8._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/JBSDHMF3DC",
+        "gender": "Gender-Neutral"
+    },
+    {
+        "name": "Womens Cardigan",
+        "category": "top",
+        "color": "red",
+        "season": "winter-fall",
+        "style": "business casual",
+        "image": "https://m.media-amazon.com/images/I/XHHD8JZ78Y._AC_UL1500_.jpg",
+        "link": "https://www.amazon.ca/dp/SN2VE00G1K",
+        "gender": "Male"
+    }
+]
