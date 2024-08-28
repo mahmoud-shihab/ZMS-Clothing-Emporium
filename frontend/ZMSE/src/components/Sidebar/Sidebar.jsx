@@ -1,28 +1,36 @@
 import React from 'react';
 import './Sidebar.scss';
 
-const Sidebar = () => {
+const Sidebar = ({ onCheckboxChange }) => {
   return (
     <div className="sidebar">
-        <ul>
-            <li>
-                Style
-                <button>Formal</button>
-                <button>Business Casual</button>
-                <button>Casual</button>
-            </li>
+      <ul>
+        <li>
+          Style <br />
+          <button>Formal</button> <br />
+          <button>Business Casual</button> <br />
+          <button>Casual</button>
+        </li>
 
-            <li>Season
-                <button>Winter-Fall</button>
-                <button>Spring-Summer</button>
-            </li>
-            <li>Color
-            </li>
-            <li>
-            <input type="checkbox" id="sidebar__list-accessory" name="accessory" value="accessory"></input>
-            <label htmlFor="accessory">Accessory</label><br/>
-            </li>
-        </ul>
+        <li>Season <br />
+          <button>Winter-Fall</button> <br />
+          <button>Spring-Summer</button>
+        </li>
+        <li>
+        <label htmlFor="color">Color</label> <br />
+        <input type="color" id="sidebar__list-color"></input>
+        </li>
+        <li>
+          <label htmlFor="accessory">Accessory</label>
+          <input
+            type="checkbox"
+            id="sidebar__list-accessory"
+            name="accessory"
+            value="accessory"
+            onChange={onCheckboxChange}
+          />
+        </li>
+      </ul>
     </div>
   );
 };
