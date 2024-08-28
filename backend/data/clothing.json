@@ -5,8 +5,8 @@
         "color": "olive",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/HBJUKY1PBQ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/XIR24PVMG6",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Womens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -15,8 +15,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/0DJM2RGTWS._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/ZM5NXJPYK4",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Running+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -25,8 +25,8 @@
         "color": "white",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/ZE2NFI3UP3._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/U746WWKNRA",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Womens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -35,8 +35,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/0GC6CAEQSD._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/WQWAACKLTK",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -45,8 +45,8 @@
         "color": "cream",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/XXAZ2OORLW._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/6NQJFGW7J6",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Womens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -55,8 +55,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/EO72A6N86K._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/UTMK9NBOUN",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Blouse&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -65,8 +65,8 @@
         "color": "blue",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/SDJ1N6T5JN._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/GQVC8PGE3N",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Mens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -75,8 +75,8 @@
         "color": "gray",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/GSJKFMMRIW._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/W69BNZOOOG",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Womens+Classic+Shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -85,8 +85,8 @@
         "color": "green",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/AL8F129PK1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/1SRAGELUX0",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -95,8 +95,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/NRCVTT6E8N._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9M9P3YQ5NH",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Mens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -105,8 +105,8 @@
         "color": "yellow",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/0ZHV4MKRB1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/HWPUPGHXAA",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -115,8 +115,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/O48A3X9BON._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/BMDEZI17ZR",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -125,8 +125,8 @@
         "color": "khaki",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/4PKN5OJKRU._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/7N9DF3QVFY",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Womens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -135,8 +135,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/BNULXP4JZ0._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/AEZFRB14J9",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Mens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -145,8 +145,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/WMSUXO26O8._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/B1BIL3T3OY",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Mens+Classic+Shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -155,8 +155,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/6Y6QW7VQ78._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/YXE18UZOKC",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Womens+Jeans&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -165,8 +165,8 @@
         "color": "cream",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/03XHXM549E._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/W93QP2BF0Z",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Mens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -175,8 +175,8 @@
         "color": "khaki",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/HYQJ4XQVKR._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/QWIG5TB0NT",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Mens+Trousers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -185,8 +185,8 @@
         "color": "beige",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/F4V1M2SLK2._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/2C89Q8YTUN",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -195,8 +195,8 @@
         "color": "white",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/RZNUU0RR1L._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9SSEOPSM5F",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Shorts&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -205,8 +205,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/16W1PVNHFQ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/J0BVXBDPZ6",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Mens+Skirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -215,8 +215,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/5JWZDWDXIH._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/G9VSUF1ABK",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Mens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -225,8 +225,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/03CMIR2JG9._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/P0TESKVIAK",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -235,8 +235,8 @@
         "color": "gray",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/QEXG3IIRJU._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/PWDOTP085M",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Mens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -245,8 +245,8 @@
         "color": "khaki",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/AOIFWP5MTC._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/X76Z2NCPEL",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Womens+Classic+Shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -255,8 +255,8 @@
         "color": "multicolor",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/3S3OZSKNPN._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/N2C0DXUQWZ",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Womens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -265,8 +265,8 @@
         "color": "gray",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/G1ZA39D79T._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/67TXQ84FY0",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Mens+Trousers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -275,8 +275,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/4SAAGBPCBA._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/GJ2FK0VB1P",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -285,8 +285,8 @@
         "color": "black",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/VPD78SRFEN._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/1MWTTMWJJX",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -295,8 +295,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/ZKF5Y7VS5I._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/ZUPZ1UYHXV",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -305,8 +305,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/SP75X4WKJC._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/VE0SEZRBOK",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -315,8 +315,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/R407K3AZAX._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/ZCK4LVLVVE",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -325,8 +325,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/CSDATCD6CJ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9FF0I9S0NL",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Womens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -335,8 +335,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/GKPEVKLDGD._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/P94Z1AAMR6",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Jeans&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -345,8 +345,8 @@
         "color": "multicolor",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/FW3Y7AZDK8._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/C3TPQCZST2",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -355,8 +355,8 @@
         "color": "cream",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/9VWSJEH2L2._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/UVP1J9CA4O",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -365,8 +365,8 @@
         "color": "multicolor",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/8PL1XXDAR8._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/O8DVG5TUKC",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -375,8 +375,8 @@
         "color": "cream",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/ZHXXGUINSY._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/7J0FHWJ01I",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Womens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -385,8 +385,8 @@
         "color": "multicolor",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/5GZ3WVX96B._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/VWPV1DQJBR",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -395,8 +395,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/Q5RV8450ND._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/8OGVRABSNT",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -405,8 +405,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/FGYSJ0L1G5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/WCXPQ9JLGL",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -415,8 +415,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/ABII30RN2Z._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/VI5N1TIT2M",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -425,8 +425,8 @@
         "color": "beige",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/WNB94YCMB2._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/HZMXMGHHXC",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Womens+Boots&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -435,8 +435,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/E5TRLLFS4Y._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/72BI5THUNI",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -445,8 +445,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/6MSNKGOF36._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/K3R3O3XHYC",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Womens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -455,8 +455,8 @@
         "color": "yellow",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/0OZLM364SV._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/U07R61MT5Y",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Boots&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -465,8 +465,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/SFJAZEZK1Y._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/FXSN9V8DSY",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -475,8 +475,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/T3S0WLDCAK._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/CCXD15HQHV",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Womens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -485,8 +485,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/QRLHSFG5BI._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/4X2A2NTJGC",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Womens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -495,8 +495,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/B2LO0QJ192._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/CTL3174GHN",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Classic+Shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -505,8 +505,8 @@
         "color": "multicolor",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/AHOXEGPQML._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/KSVCM1RANY",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Womens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -515,8 +515,8 @@
         "color": "white",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/72AREXT5X7._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/01SWGSSEJL",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Womens+Hoodie&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -525,8 +525,8 @@
         "color": "white",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/7ZHVAEFYSU._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/B9JMMOPQPH",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Womens+Sunglasses&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -535,8 +535,8 @@
         "color": "white",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/U0XKNHIMSZ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/S8AJGELAMU",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -545,8 +545,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/K7ROM2CQSN._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/59LJC5VEU5",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -555,8 +555,8 @@
         "color": "olive",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/10EFWS7WUI._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/W6ZB47WROV",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Sunglasses&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -565,8 +565,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/E6GGUN00V1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/8RFTJUJRPS",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -575,8 +575,8 @@
         "color": "black",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/7V812XXAGP._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/FD9K0OZG2Y",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Running+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -585,8 +585,8 @@
         "color": "cream",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/Z7F16244BW._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/H4LPV8H2S9",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Womens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -595,8 +595,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/IJZM0XPYQL._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/D3M17CTQQ8",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -605,8 +605,8 @@
         "color": "white",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/ASYJK4MQUB._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/ZSQ4KW9YED",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Jeans&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -615,8 +615,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/55HM1USJ1J._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9OIBSJ5DZQ",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -625,8 +625,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/6TJY9VAXW3._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/6PWUFKEN2Q",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Womens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -635,8 +635,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/MAEGWF5RBZ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/WBBFN8SAKV",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -645,8 +645,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/AHQSUYJ1NA._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/MV91AZMNFO",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Mens+Boots&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -655,8 +655,8 @@
         "color": "white",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/MRTZV9F278._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/PEMYMFX3WL",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Womens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -665,8 +665,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/7PJTPHA58Y._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/NREDLCVZKY",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -675,8 +675,8 @@
         "color": "multicolor",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/966QVE5JZI._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/1BQNK7TJO1",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -685,8 +685,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/PVWGRPNETW._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/5O35Q0R8QJ",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Womens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -695,8 +695,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/JQ575ODX5Y._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/H78H80S7EX",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -705,8 +705,8 @@
         "color": "olive",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/NX3133NSN5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/VLC26H2OHU",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Jeans&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -715,8 +715,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/TYOUZLUW4B._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/3HBR6V7EZV",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Skirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -725,8 +725,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/B02BDD769E._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/QYJJXMGFOU",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -735,8 +735,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/CSWYVTKVKB._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/6MJD0KAGKN",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Womens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -745,8 +745,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/YYV6GD2NX2._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/NX7F2BVNDD",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -755,8 +755,8 @@
         "color": "olive",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/ORPU6V2RUA._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/H1JT80RVHK",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Womens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -765,8 +765,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/ODPWA1EKT7._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/ERHJ11WPTP",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -775,8 +775,8 @@
         "color": "olive",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/0XJVOE69U6._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/WJ40YSFSFX",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -785,8 +785,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/8RD9DB2MFJ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/YE91M9F81E",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Mens+Trousers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -795,8 +795,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/UX8T4NG7LV._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/SNJ50SYXMM",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Mens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -805,8 +805,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/I2JCEETCM0._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/DS5FP9JKWE",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -815,8 +815,8 @@
         "color": "khaki",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/Q9KQVV0Q4V._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/2TDGNIBL1G",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Womens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -825,8 +825,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/UY6XTZBX03._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/E96T8U4ENX",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Womens+Blouse&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -835,8 +835,8 @@
         "color": "white",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/B47BT4XOKV._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/DWN5WNXWDY",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -845,8 +845,8 @@
         "color": "olive",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/ZK2NHJUXBY._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/D7ROBDHUE0",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -855,8 +855,8 @@
         "color": "white",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/ZHNM7TYYBL._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/GB261YCGT9",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -865,8 +865,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/82QM7JK5IT._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/MEVHUPRRG6",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -875,8 +875,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/8KZL4X5HXW._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/YHG5FIQL7I",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -885,8 +885,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/HUSKJ5EXOO._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/P1L51YCWTH",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -895,8 +895,8 @@
         "color": "gray",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/L97YRIHDBI._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/72BJTE138K",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Mens+Shorts&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -905,8 +905,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/N1SSTTVWJM._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/XJNY38PCAB",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -915,8 +915,8 @@
         "color": "beige",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/ZMNR5HUG3Z._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/W4NDCV07TM",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Running+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -925,8 +925,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/FLCGU389CF._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/7JGRH35AT6",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -935,8 +935,8 @@
         "color": "yellow",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/3PVWXQ7QVP._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/AMHCBLWBX6",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+T-shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -945,8 +945,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/HAJ8ZQQD6S._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/U4L3C1C84W",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Trousers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -955,8 +955,8 @@
         "color": "olive",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/VNJXQA7YM2._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/TM3E0YA1K1",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Hoodie&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -965,8 +965,8 @@
         "color": "gray",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/93O2QON0QI._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/DROBVPINHY",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Mens+Belt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -975,8 +975,8 @@
         "color": "gray",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/IFTK0POBW5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/68FD96IY2W",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Womens+Classic+Shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -985,8 +985,8 @@
         "color": "gray",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/NV1C4R7YIV._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/0KWIXZFBYC",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Womens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -995,8 +995,8 @@
         "color": "red",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/HW1FGIMAJZ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/VT0H9YVM1R",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Mens+Trousers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1005,8 +1005,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/K0PRJ3F5WQ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/62N3LM9S2W",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1015,8 +1015,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/A60ETJQQO9._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/MXZFKYS5E7",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1025,8 +1025,8 @@
         "color": "cream",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/13143HF5L4._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/I68BZ9YZ2X",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Mens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1035,8 +1035,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/6FBHTE6L87._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/3GOCANMSAI",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Mens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1045,8 +1045,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/2U3WJX20CE._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/EC8A2DLIQX",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Womens+Skirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1055,8 +1055,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/AUWVPKF45G._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/XZC1G9Y01F",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1065,8 +1065,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/KJF2QAFIOP._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/UIKURZVUCO",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1075,8 +1075,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/8S11UFZZIG._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/79TN0Q5IZ6",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Mens+Hoodie&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1085,8 +1085,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/RWNNB6I11R._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/KMGKRG8JDR",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Mens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1095,8 +1095,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/FUKI9MIBCN._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/HC4JJN7VEI",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1105,8 +1105,8 @@
         "color": "green",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/1Q9S0329XB._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/4NN31C4OZC",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1115,8 +1115,8 @@
         "color": "cream",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/QOVMGBTVTG._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/SBG0UKAFTN",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Mens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1125,8 +1125,8 @@
         "color": "cream",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/6OTXXE163W._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/I1IS5Y4Q9C",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Womens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1135,8 +1135,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/ARAGMBVLI5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/QOQT4MW98N",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Mens+Trousers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1145,8 +1145,8 @@
         "color": "blue",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/3QYHL5E3D1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/017E5QY345",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1155,8 +1155,8 @@
         "color": "khaki",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/O9L3GXIGA1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/O61BOXWXZ0",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Womens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1165,8 +1165,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/P73OYL40F2._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/KR50Z3NIPL",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1175,8 +1175,8 @@
         "color": "multicolor",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/3H3TTLJKQ1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/BIKTDGVXE7",
+        "image": "https://placehold.co/400x600/grey/black/svg?text=Mens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1185,8 +1185,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/BDG0XFLPB2._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/QU652141TH",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1195,8 +1195,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/FBSDXULCBU._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/TVG92WUYLG",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Mens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1205,8 +1205,8 @@
         "color": "white",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/GUFYS0M43J._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/E2G71K1ZFM",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1215,8 +1215,8 @@
         "color": "blue",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/SVWUE9WV1F._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/PI4VJPWX2X",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Mens+Sunglasses&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1225,8 +1225,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/82PDNTB1ZF._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/4PE9KP8RIX",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Mens+Watch&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1235,8 +1235,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/X9FDFCKWO6._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9XDV666322",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Mens+Sunglasses&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1245,8 +1245,8 @@
         "color": "olive",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/85TBM2LASN._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/RX4KONCBC5",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Classic+Shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1255,8 +1255,8 @@
         "color": "green",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/X5AMCZ96HY._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/T20S6LM9I7",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+T-shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1265,8 +1265,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/OS9OZ9N0QG._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/AA5H90SCXD",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Coat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1275,8 +1275,8 @@
         "color": "brown",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/CX5EJ7YBT3._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/LIW7ZS0KWT",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1285,8 +1285,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/KANJDL023J._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/7HFB2CQ76T",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Mens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1295,8 +1295,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/ITAT6CLOB5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/5VA4MHHB2Q",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1305,8 +1305,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/G22RN3NOTY._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/RB05TBSC13",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Blouse&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1315,8 +1315,8 @@
         "color": "yellow",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/7ZPV3X244S._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/BL457Z0JFG",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1325,8 +1325,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/O0UP666WVU._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/KLAOOW8ECD",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1335,8 +1335,8 @@
         "color": "yellow",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/L0H3VQKHP6._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/5Q1XK5HJ4V",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1345,8 +1345,8 @@
         "color": "gray",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/6CPZGBJQN0._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/JS9I93HN1F",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Mens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1355,8 +1355,8 @@
         "color": "olive",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/SRPOIN7S68._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/EZ0GXMEVDW",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Skirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1365,8 +1365,8 @@
         "color": "blue",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/T8PJ1UMXEP._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/U37HJR5HYK",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1375,8 +1375,8 @@
         "color": "beige",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/JYP2AOO7RA._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9377VERNZ3",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Skirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1385,8 +1385,8 @@
         "color": "white",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/TNIYITPLXB._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/YWUKWG0JMN",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1395,8 +1395,8 @@
         "color": "beige",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/QYOVFM7OH1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/KQ0POS2O18",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1405,8 +1405,8 @@
         "color": "olive",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/DWJIMZM7VG._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/90FFRZ0UV9",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1415,8 +1415,8 @@
         "color": "white",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/S80HNXBN6V._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/X7KD7OLZVE",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Mens+Boots&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1425,8 +1425,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/ZIRMFRS07L._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/JIAQZZ5A9E",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1435,8 +1435,8 @@
         "color": "gray",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/DAH9KY6348._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/34T9TVMUSE",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Mens+Watch&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1445,8 +1445,8 @@
         "color": "brown",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/5M6HAND0C9._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/2RQ97DMM8X",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1455,8 +1455,8 @@
         "color": "green",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/RISI2UYJW6._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/DAUBCWYQQJ",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1465,8 +1465,8 @@
         "color": "multicolor",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/FOB3X8N8KV._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/0LABB4HSAI",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1475,8 +1475,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/INZLDEE6WM._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/P5AP8JRMWJ",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Womens+Jeans&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1485,8 +1485,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/5CWXFO5OS5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/1X06X0S3PV",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Mens+Shorts&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1495,8 +1495,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/0OHJG1N5Z9._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/HNTCYDBM8L",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Chinos&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1505,8 +1505,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/42GOEQA35V._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/JXXUZ04232",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1515,8 +1515,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/XYO7YOLP5U._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/M662B83LQR",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Womens+Hoodie&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1525,8 +1525,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/2Z3A29MCG1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/E20DTVI8PD",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1535,8 +1535,8 @@
         "color": "yellow",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/8JOIUWP1OP._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/RAQVZXFO8J",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Hat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1545,8 +1545,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/D798DE8ZC5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/NOWGH1AK6M",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Womens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1555,8 +1555,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/0P9TEINP47._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/3IJYM851IK",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Skirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1565,8 +1565,8 @@
         "color": "white",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/REBTHGYE89._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/8BCLCKVZRX",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Womens+Leggings&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1575,8 +1575,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/GP20X4CVDT._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/RR0X2598RL",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1585,8 +1585,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/0KU8MX2A27._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/DBU4YLO5MC",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1595,8 +1595,8 @@
         "color": "blue",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/YEH3MCWXN8._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/Z5CUT15TDK",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1605,8 +1605,8 @@
         "color": "multicolor",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/OQ1FJZD0VT._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/ML0B04WKGU",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1615,8 +1615,8 @@
         "color": "blue",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/NP6ZI5A6JZ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/3U16NGLON9",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1625,8 +1625,8 @@
         "color": "beige",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/DNG16535N6._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/B94PRTLWE1",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Mens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1635,8 +1635,8 @@
         "color": "cream",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/78WLHG12BH._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/26T4I2TB98",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Womens+Shorts&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1645,8 +1645,8 @@
         "color": "khaki",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/XK1V0XH7DX._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/5LUMQXJ5YS",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Mens+T-shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1655,8 +1655,8 @@
         "color": "brown",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/JKV6BPAIQZ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/LF7EE8DTAV",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1665,8 +1665,8 @@
         "color": "brown",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/DHIDPBWFDJ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/UUTSPR6AVS",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Womens+Hat&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1675,8 +1675,8 @@
         "color": "brown",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/GB0JOF6NBM._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/27PAE8B0QY",
+        "image": "https://placehold.co/400x600/brown/black/svg?text=Mens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1685,8 +1685,8 @@
         "color": "yellow",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/C7U4LSMW2O._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/8EOZKX7QUQ",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Womens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1695,8 +1695,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/SCW8WYQLA6._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/M9EDC1RIQG",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1705,8 +1705,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/LWQ7K9OAYV._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/RPYGXIC9LR",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+T-shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1715,8 +1715,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/PA58NQTEPP._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/IB584I73XO",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1725,8 +1725,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/SSID7UC7PD._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/FY5TCGHIMQ",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Womens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1735,8 +1735,8 @@
         "color": "khaki",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/HR7NPYM2K5._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/KRRENMR6OJ",
+        "image": "https://placehold.co/400x600/khaki/black/svg?text=Mens+Jacket&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1745,8 +1745,8 @@
         "color": "blue",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/KFOPO4YNCL._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/FUUIE3UXQH",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1755,8 +1755,8 @@
         "color": "multicolor",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/ECI9Z1G7RS._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/YC5XTATP54",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Womens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1765,8 +1765,8 @@
         "color": "olive",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/I0CHQTXKGP._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/V61W1TX39D",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Womens+Sunglasses&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1775,8 +1775,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/6HJAYRZAXV._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/Z0RIQ0LI4D",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Dress+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1785,8 +1785,8 @@
         "color": "red",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/Z446X8AJYM._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/28IMSRWOE7",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Womens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1795,8 +1795,8 @@
         "color": "green",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/BYSBOTAN6X._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/7HA40A015J",
+        "image": "https://placehold.co/400x600/green/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1805,8 +1805,8 @@
         "color": "navy",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/E7YYT7I2X7._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/4XW1CFT4GL",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1815,8 +1815,8 @@
         "color": "beige",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/6IVK01DBQ1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/0D9WNDM2PZ",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Womens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1825,8 +1825,8 @@
         "color": "gray",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/GEUJ33Y3AY._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/2A9BOC4F32",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Womens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1835,8 +1835,8 @@
         "color": "gray",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/MOAKWS8ZIO._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/C9YO6YO69W",
+        "image": "https://placehold.co/400x600/gray/black/svg?text=Womens+Sandals&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1845,8 +1845,8 @@
         "color": "white",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/A3S75LXH5J._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/KR9RZI7EK8",
+        "image": "https://placehold.co/400x600/white/black/svg?text=Womens+Scarf&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1855,8 +1855,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/UNE0KX3PXT._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/XH53SJHYWQ",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1865,8 +1865,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/T0WRGVJS6A._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/7FDNI7O82C",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Handbag&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1875,8 +1875,8 @@
         "color": "multicolor",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/X1EW4NXMYL._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/TGIHX36YFT",
+        "image": "https://placehold.co/400x600/olive/black/svg?text=Mens+Cargo+Pants&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1885,8 +1885,8 @@
         "color": "multicolor",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/POGW3HY1P0._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/TJDDX3SN9L",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Classic+Shirt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1895,8 +1895,8 @@
         "color": "black",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/3LPZIDX3OJ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/1ZAMIIR1IU",
+        "image": "https://placehold.co/400x600/black/white/svg?text=Mens+Running+Shoes&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1905,8 +1905,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/V7IN2ZX26N._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/L5UJ7YZ8TI",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1915,8 +1915,8 @@
         "color": "blue",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/W3AWPM8SVM._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9WT7PH4POL",
+        "image": "https://placehold.co/400x600/blue/black/svg?text=Womens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1925,8 +1925,8 @@
         "color": "yellow",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/G2BN041Z7P._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/9TLYN5AAHG",
+        "image": "https://placehold.co/400x600/yellow/black/svg?text=Mens+Sneakers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1935,8 +1935,8 @@
         "color": "navy",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/Y76HXDBCUC._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/NE2VLBQKBX",
+        "image": "https://placehold.co/400x600/navy/white/svg?text=Mens+Gloves&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     },
     {
@@ -1945,8 +1945,8 @@
         "color": "beige",
         "season": "spring-summer",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/KFC0GX854Z._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/CVWN7ALLNA",
+        "image": "https://placehold.co/400x600/beige/black/svg?text=Womens+Sweater&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1955,8 +1955,8 @@
         "color": "red",
         "season": "spring-summer",
         "style": "formal",
-        "image": "https://m.media-amazon.com/images/I/SAMM2MALCQ._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/ZTVZ95TIJP",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Womens+Ballet+Flats&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1965,8 +1965,8 @@
         "color": "cream",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/AJB7LNG3S1._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/DWA1CGJEY8",
+        "image": "https://placehold.co/400x600/FFFDD0/black/svg?text=Womens+Loafers&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Female"
     },
     {
@@ -1975,8 +1975,8 @@
         "color": "pink",
         "season": "winter-fall",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/HLPXEAKKWS._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/J5WDOU5TBY",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Womens+Belt&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1985,8 +1985,8 @@
         "color": "pink",
         "season": "spring-summer",
         "style": "casual",
-        "image": "https://m.media-amazon.com/images/I/Y9FC9QFCG8._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/JBSDHMF3DC",
+        "image": "https://placehold.co/400x600/pink/black/svg?text=Mens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Gender-Neutral"
     },
     {
@@ -1995,8 +1995,8 @@
         "color": "red",
         "season": "winter-fall",
         "style": "business casual",
-        "image": "https://m.media-amazon.com/images/I/XHHD8JZ78Y._AC_UL1500_.jpg",
-        "link": "https://www.amazon.ca/dp/SN2VE00G1K",
+        "image": "https://placehold.co/400x600/red/black/svg?text=Womens+Cardigan&font=Oswald",
+        "link": "https://www.amazon.ca",
         "gender": "Male"
     }
 ]
